@@ -25,6 +25,11 @@ Esse documento links úteis para a disciplina de Engenharia de Software
 - [ATIVIDADE AVALIATIVA 02 (18/09/2025)](https://forms.gle/4wrPvBKyvsDKbWZo9)
     + ENTREGA ATÉ HOJE AO FIM DA AULA
     + INDIVIDUAL
+    + TODOS OS MATERIAIS USADOS EM AULA SÃO PERMITIDOS. IAs (ChatGPT, Gemini, e similares) SÃO **PROÍBIDAS.**
+      
+- [ATIVIDADE AVALIATIVA 2o BIMESTRE (10/11/2025)](https://forms.gle/7B26DZ8xyaN2UrVu5)
+    + ENTREGA ATÉ HOJE AO FIM DA AULA
+    + EQUIPES DE ATÉ TRÊS ESTUDANTES
     + TODOS OS MATERIAIS USADOS EM AULA SÃO PERMITIDOS. IAs (ChatGPT, Gemini, e similares) SÃO **PROÍBIDAS.** 
 
 ----
