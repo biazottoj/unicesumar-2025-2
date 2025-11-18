@@ -166,5 +166,5 @@ O trabalho deve ser submetido por meio do formulário disponível até sexta-fei
         * Chequem ser conseguem visualizar/baixar o arquivo. 
     + IMPORTANTE: Não vou aceitar trabalhos por e-mail e/ou enviados após as 23:59 do dia 21/11/2025 (Sexta-Feira)
 
-- **Link para a entrega:** [https://forms.gle/MpQS8m2UbJTBFj1v9]()   
+- **Link para a entrega:** [https://forms.gle/MpQS8m2UbJTBFj1v9](https://forms.gle/MpQS8m2UbJTBFj1v9)   
 </details>
