@@ -72,7 +72,7 @@ ___
 
 <details>
 
-<summary>Atividades 2o Bimestre</summary>
+<summary open>Atividades 2o Bimestre</summary>
 
 - Atividade 06 - Cronogrma Cronogrma (Até 17/10)
     * ~~Template => [https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1CuMSFhBuiIfXMIWbvGkAvBL6AGQ5Ku9BdlV018UoFdg/edit?usp=~~sharing)~~                                               
@@ -115,7 +115,7 @@ ___
     + ~~Pasta com as apresentações (todos os grupos): [https://shorturl.at/ifC1k](https://shorturl.at/ifC1k)~~
 </details>
 
-<details>
+<details open>
 <summary>ENTREGA DO PROJETO - 2o Bimestre</summary>
 
 A entrega da atividade prática da disciplina de Gerenciamento de Projetos Tecnológicos segue o combinado no início do bimestre.
